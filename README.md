@@ -1,2 +1,2 @@
-# home
-Homepage for TimelyClock
+# TimelyClock
+Welcome to TimelyClock!
