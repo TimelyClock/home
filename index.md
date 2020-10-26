@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to TimelyClock!
 
 You can use the [editor on GitHub](https://github.com/TimelyClock/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
