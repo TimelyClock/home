@@ -6,9 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Lorem ipsum dolor sit amet.
 
-[Click me](http://www.google.com){: .btn}
+
+{% include button.html url="http://www.google.com" %}
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
