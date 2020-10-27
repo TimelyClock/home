@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-[Documentation](http://example.com/){: .btn .btn-purple .mr-3 }
+[Documentation](http://example.com/){: .btn .btn-green .mr-2 }
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
